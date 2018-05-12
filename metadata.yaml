@@ -1,0 +1,35 @@
+_repo: The-Twin-Cousins_23540
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: May, Sophie
+    alias: Clarke, Rebecca Sophia
+    birthdate: 1833
+    deathdate: 1906
+    gutenberg_agent_id: '3465'
+    url: http://www.gutenberg.org/2009/agents/3465
+    wikipedia: http://en.wikipedia.org/wiki/Rebecca_Sophia_Clarke
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2007-11-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23540'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Cousins -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Christmas -- Juvenile fiction'
+- !lcsh 'Twins -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Aunts -- Juvenile fiction'
+title: The Twin Cousins
+url: http://www.gutenberg.org/ebooks/23540
